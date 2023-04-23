@@ -1,9 +1,14 @@
 UNIVERZITA KONŠTANTÍNA FILOZOFA V NITRE, FAKULTA PRÍRODNÝCH VIED A INFORMATIKY
+
 ANALÝZA KĽÚČOVÝCH SLOV Z WEBU - DIPLOMOVÁ PRÁCA
+
 Bc. Barbora Jamrichová 
+
 2023
 
+
 Abstrakt EN:
+
 The aim of this thesis is to present different methods of keyword extraction from
 web pages. It also focuses on how content is retrieved from the website. It highlights the
 differences and steps of algorithms in determining key phrases. In the first half of the
@@ -20,7 +25,9 @@ and their advantages and disadvantages are named. The final result of the work i
 research on optimizing the use of algorithms in order to obtain the most accurate
 keywords.
 
+
 Abstrakt SK: 
+
 Cieľom záverečnej práce je predstaviť rôzne metódy extrakcie kľúčových slov
 z webových stránok. Zameriava sa taktiež na spôsob získania obsahu z webovej
 lokality. Poukazuje na rozdiely a postup algoritmov v určovaní kľúčových fráz. V prvej
@@ -39,15 +46,25 @@ algoritmov za účelom získania čo najpresnejších kľúčových slov.
 
 
 Zdroje spracovaných textov:
+
 https://en.wikipedia.org/wiki/Romeo_and_Juliet
+
 https://en.wikipedia.org/wiki/Plug-in_hybrid
+
 https://en.wikipedia.org/wiki/Autism_spectrum
+
 https://en.wikipedia.org/wiki/Robotics
+
 https://en.wikipedia.org/wiki/Metabolism
+
 https://en.wikipedia.org/wiki/Evil_Queen_(Disney)
+
 https://techcrunch.com/2023/03/02/hatch-bank-breach-fortra-goanywhere-exploit/
+
 https://techcrunch.com/2023/03/01/chainlink-launches-web3-dev-platform-to-connect-builders-to-web2-0-apis-like-aws-and-meta/
+
 https://quintessenceblog.com/at-home-in-san-patrignano/
+
 https://quintessenceblog.com/adventures-in-los-angeles/
 
 
