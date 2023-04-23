@@ -46,15 +46,15 @@ algoritmov za účelom získania čo najpresnejších kľúčových slov.
 	
 Zdroje spracovaných textov:	
 	
-https://en.wikipedia.org/wiki/Romeo_and_Juliet	
-https://en.wikipedia.org/wiki/Plug-in_hybrid	
-https://en.wikipedia.org/wiki/Autism_spectrum	
-https://en.wikipedia.org/wiki/Robotics	
-https://en.wikipedia.org/wiki/Metabolism	
-https://en.wikipedia.org/wiki/Evil_Queen_(Disney)	
-https://techcrunch.com/2023/03/02/hatch-bank-breach-fortra-goanywhere-exploit/	
-https://techcrunch.com/2023/03/01/chainlink-launches-web3-dev-platform-to-connect-builders-to-web2-0-apis-like-aws-and-meta/	
-https://quintessenceblog.com/at-home-in-san-patrignano/	
-https://quintessenceblog.com/adventures-in-los-angeles/	
+	https://en.wikipedia.org/wiki/Romeo_and_Juliet	
+	https://en.wikipedia.org/wiki/Plug-in_hybrid	
+	https://en.wikipedia.org/wiki/Autism_spectrum	
+	https://en.wikipedia.org/wiki/Robotics	
+	https://en.wikipedia.org/wiki/Metabolism	
+	https://en.wikipedia.org/wiki/Evil_Queen_(Disney)	
+	https://techcrunch.com/2023/03/02/hatch-bank-breach-fortra-goanywhere-exploit/	
+	https://techcrunch.com/2023/03/01/chainlink-launches-web3-dev-platform-to-connect-builders-to-web2-0-apis-like-aws-and-meta/	
+	https://quintessenceblog.com/at-home-in-san-patrignano/	
+	https://quintessenceblog.com/adventures-in-los-angeles/	
 
 
